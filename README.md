@@ -23,10 +23,25 @@ Bu proje, bir portfolyo teması üzerine inşa edilmiş olup, kullanıcıların 
 ## 📸 Ekran Görüntüleri
 
 Ana sayfa görünümü:  
-![Ana Sayfa](wwwroot/files/screenshots/portfolyo.jpg)
+![Ana Sayfa](/MyPortfolioUdemy/wwwroot/files/screenshots/portfolyo.jpg)
 
 Hakkımda sayfası görünümü:  
-![Hakkımda](wwwroot/files/screenshots/whoamı.jpg)
+![Hakkımda](/MyPortfolioUdemy/wwwroot/files/screenshots/whoamı.jpg)
 
 Deneyimler sayfası görünümü:  
 ![Deneyimler](/MyPortfolioUdemy/wwwroot/files/screenshots/Experience.jpg)
+
+Deneyimler sayfası görünümü:  
+![Deneyimler](/MyPortfolioUdemy/wwwroot/files/screenshots/Experience.jpg)
+
+## Şimdi de Dashboard'dan biraz görsel getirelim..
+
+Deneyimler Dashboard sayfası görünümü:  
+![Deneyimler Dashboard](/MyPortfolioUdemy/wwwroot/files/screenshots/experienceList.jpg)
+
+Mesaj Listesi Dashboard sayfası görünümü:  
+![Mesaj Listesi Dashboard](/MyPortfolioUdemy/wwwroot/files/screenshots/messageList.jpg)
+
+İstatistikler Dashboard sayfası görünümü:  
+![İstatistikler Dashboard](/MyPortfolioUdemy/wwwroot/files/screenshots/statistic.jpg)
+
