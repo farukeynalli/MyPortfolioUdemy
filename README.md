@@ -18,3 +18,15 @@ Bu proje, bir portfolyo teması üzerine inşa edilmiş olup, kullanıcıların 
 - Bootstrap
 - Code First
 - View Component
+
+
+## 📸 Ekran Görüntüleri
+
+Ana sayfa görünümü:  
+![Ana Sayfa](wwwroot/files/screenshots/portfolyo.jpg)
+
+Hakkımda sayfası görünümü:  
+![Hakkımda](wwwroot/files/screenshots/whoamı.jpg)
+
+Deneyimler sayfası görünümü:  
+![Deneyimler](wwwroot/files/screenshots/Experience.jpg)
