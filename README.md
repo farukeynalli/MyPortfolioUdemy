@@ -29,4 +29,4 @@ Hakkımda sayfası görünümü:
 ![Hakkımda](wwwroot/files/screenshots/whoamı.jpg)
 
 Deneyimler sayfası görünümü:  
-![Deneyimler](wwwroot/files/screenshots/Experience.jpg)
+![Deneyimler](/MyPortfolioUdemy/wwwroot/files/screenshots/Experience.jpg)
