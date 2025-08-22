@@ -22,26 +22,38 @@ Bu proje, bir portfolyo teması üzerine inşa edilmiş olup, kullanıcıların 
 
 ## 📸 Ekran Görüntüleri
 
-Ana sayfa görünümü:  
-![Ana Sayfa](/MyPortfolioUdemy/wwwroot/files/screenshots/portfolyo.jpg)
+### 🏠 Ana Sayfa
+![Ana Sayfa](/MyPortfolioUdemy/wwwroot/files/screenshots/portfolyo.jpg)  
+👉 Kullanıcıların ilk karşılaştığı sayfa. Portfolyo ve çalışmaların modern bir tasarımla sunuluyor.  
 
-Hakkımda sayfası görünümü:  
-![Hakkımda](/MyPortfolioUdemy/wwwroot/files/screenshots/whoamı.jpg)
+<br>
 
-Deneyimler sayfası görünümü:  
-![Deneyimler](/MyPortfolioUdemy/wwwroot/files/screenshots/Experience.jpg)
+### 🙋‍♂️ Hakkımda Sayfası
+![Hakkımda](/MyPortfolioUdemy/wwwroot/files/screenshots/whoamı.jpg)  
+👉 Kişisel bilgiler, kariyer hedefleri ve kendini tanıtan metinlerin yer aldığı bölüm.  
 
-Deneyimler sayfası görünümü:  
-![Deneyimler](/MyPortfolioUdemy/wwwroot/files/screenshots/Experience.jpg)
+<br>
 
-## Şimdi de Dashboard'dan biraz görsel getirelim..
+### 💼 Deneyimler Sayfası
+![Deneyimler](/MyPortfolioUdemy/wwwroot/files/screenshots/Experience.jpg)  
+👉 Geçmiş iş deneyimleri, projeler ve sorumlulukların listelendiği kısım.  
 
-Deneyimler Dashboard sayfası görünümü:  
-![Deneyimler Dashboard](/MyPortfolioUdemy/wwwroot/files/screenshots/experienceList.jpg)
+---
 
-Mesaj Listesi Dashboard sayfası görünümü:  
-![Mesaj Listesi Dashboard](/MyPortfolioUdemy/wwwroot/files/screenshots/messageList.jpg)
+## 📊 Dashboard Görünümleri
 
-İstatistikler Dashboard sayfası görünümü:  
-![İstatistikler Dashboard](/MyPortfolioUdemy/wwwroot/files/screenshots/statistic.jpg)
+### 🗂️ Deneyimler Dashboard
+![Deneyimler Dashboard](/MyPortfolioUdemy/wwwroot/files/screenshots/experienceList.jpg)  
+👉 Admin panelinden deneyimlerin listelenip yönetildiği bölüm.  
 
+<br>
+
+### 💬 Mesaj Listesi Dashboard
+![Mesaj Listesi Dashboard](/MyPortfolioUdemy/wwwroot/files/screenshots/messageList.jpg)  
+👉 Kullanıcılardan gelen mesajların listelendiği ve yönetildiği alan.  
+
+<br>
+
+### 📈 İstatistikler Dashboard
+![İstatistikler Dashboard](/MyPortfolioUdemy/wwwroot/files/screenshots/statistic.jpg)  
+👉 Portfolyo performansı, içerik sayıları ve genel metriklerin grafiklerle gösterildiği bölüm.  
