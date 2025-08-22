@@ -1,0 +1,39 @@
+﻿@model Message
+@{
+    ViewData["Title"] = "MessageDetail";
+    Layout = "~/Views/Layout/Index.cshtml";
+}
+<input type="hidden" asp-for="MessageId" />
+
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">Mesajlar</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title">Gelen Mesaj Listesi</div>
+                    </div>
+                    <div class="card-body">
+                        <div class="card-sub">
+                            <b>Gönderen:</b>  @Model.NameSurname
+                            <br />
+                            <b>E-mail:</b>  @Model.Email 
+                            <br />
+                            <b>Tarih:</b>  @Model.SendDate.ToShortDateString()
+                            <br />
+                            <b>Konu:</b>  @Model.Subject
+                            <br />
+                            <br />
+                            <b>Mesaj:</b>  @Model.MessageDetail
+                            <br />
+
+                        </div>
+                        <a href="/Message/Inbox" style="margin-left:2rem" class="btn btn-info">Gelen Kutusuna Dön</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

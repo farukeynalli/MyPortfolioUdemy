@@ -1,0 +1,57 @@
+﻿<section id="about" class="s-about target-section">
+
+    <div class="row narrow section-intro has-bottom-sep">
+        <div class="col-full text-center">
+            <h3>Hakkımda</h3>
+            <h1>Ben Kimim?</h1>
+            <p class="lead">Bilgisayarlarla küçük yaştan beri içli dışlıyım;
+                teknolojiyi sıkılmadan kullanmak ve sürekli yeni şeyler öğrenmek bana keyif veriyor. 
+                Üniversite seçimimle başlayan bu serüvenim zamanla web geliştirme ve backend tarafına olan ilgimle şekillendi.
+                Node.js konusunda kendime güveniyorum ve Python ile yapılan projelerde de başarılı işler çıkarabiliyorum.
+                Amacım, kullanıcıya değer katan, sürdürülebilir ve anlaşılır yazılımlar geliştirmek ve sürekli kendimi 
+                bu alanda geliştirmeye devam etmek.</p>
+        </div>
+    </div>
+
+    <div class="row about-content">
+
+        <div class="col-six tab-full left">
+            <h3>Kariyer Vizyonum</h3>
+
+            <p>
+                Yazılım dünyasında sadece kod yazmak değil, aynı zamanda problem çözmek,
+                kullanıcı deneyimini iyileştirmek ve teknolojiyi anlamlı bir şekilde kullanmak benim için öncelikli.
+                Geliştirdiğim projelerde sadece teknik başarıya değil, aynı zamanda sürdürülebilirliğe
+                ve anlaşılabilirliğe de önem veriyorum.
+            </p>
+
+            <p>
+                Yeni teknolojileri öğrenmeye açık bir yapım var;
+                özellikle backend geliştirme, veri işleme ve sistem entegrasyonu konularında kendimi
+                sürekli geliştirmeye çalışıyorum. Gelecekte, farklı disiplinleri bir araya getiren
+                projelerde yer alarak hem teknik hem de stratejik katkılar sunmayı hedefliyorum.
+            </p>
+        </div>
+
+        @await Component.InvokeAsync("_SkillComponentPartial")
+        @*Skill Component Here*@
+
+    </div> <!-- end about-content -->
+
+    <div class="row about-content about-content--buttons">
+
+        <div class="col-six tab-full left">
+            <a href="~/files/Ahmet_Faruk_Eynallı_CV_tr.pdf" download class="btn btn--primary full-width">CV'mi İndir</a>
+        </div>
+        <div class="col-six tab-full right">
+            <a href="#contact" class="btn full-width">Beni İşe Alın</a>
+        </div>
+
+    </div> <!-- end about-content buttons -->
+   
+    
+        
+        <!-- start work-experince  -->
+    @await Component.InvokeAsync("_ExperienceComponentPartial")
+
+</section> <!-- end about -->
